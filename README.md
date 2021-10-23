@@ -1,2 +1,3 @@
-# Covid19-App-Tracker
-This is a app for keeping record of covid19 patients across the globe
+# Covid19-App-Tracker (UnderDevelopment)
+
+This is a app for keeping record of COVID-19 patients across the globe.
